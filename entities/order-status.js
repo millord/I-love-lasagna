@@ -1,4 +1,4 @@
 export default class OrderStatus {
-  id;
-  status;
+  id; //  integer
+  status; // string
 }

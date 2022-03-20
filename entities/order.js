@@ -1,10 +1,10 @@
 export default class Order {
-  id;
-  customerId;
-  orderStatusId;
-  dishList;
-  total;
-  expirationDate;
-  chefId;
-  orderPreprarationSpeed;
+  id; // integer
+  customerId; // integer
+  orderStatusId; // integer
+  dishList; // array
+  total; // integer
+  expirationDate; // date
+  chefId; // integer
+  orderPreprarationSpeed; // enum
 }
