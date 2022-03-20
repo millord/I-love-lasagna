@@ -1,4 +1,4 @@
 export default class DishCategory {
-  id;
-  category;
+  id; // integer
+  category; // string
 }

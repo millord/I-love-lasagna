@@ -1,8 +1,8 @@
 export default class Dish {
-  id;
-  dishCategoryId;
-  name;
-  description;
-  expirationDate;
-  price;
+  id; // integer
+  dishCategoryId; // integer
+  name; // string
+  description; // string
+  expirationDate; // date
+  price; // integer
 }
