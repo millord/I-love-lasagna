@@ -6,5 +6,5 @@ export default class Order {
   total; // integer
   orderDate; // date
   chefId; // integer
-  orderPreprarationSpeed; // enum
+  difficulty; // enum
 }
