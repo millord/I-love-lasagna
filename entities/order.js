@@ -4,7 +4,7 @@ export default class Order {
   orderStatusId; // integer
   dishList; // array
   total; // integer
-  expirationDate; // date
+  orderDate; // date
   chefId; // integer
   orderPreprarationSpeed; // enum
 }
