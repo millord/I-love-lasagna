@@ -3,6 +3,5 @@ export default class Dish {
   dishCategoryId; // integer
   name; // string
   description; // string
-  expirationDate; // date
   price; // integer
 }
